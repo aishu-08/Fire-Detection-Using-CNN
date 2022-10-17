@@ -8,8 +8,8 @@ model CNN, that will give the best accuracy in detecting fire.
 Tensorflow
 
 ## Methodology 
-CNN - CONVOLUTION NEURAL NETWORK 
-By using CNN we classified whether a image belongs to fire or not fire.
+CNN - CONVOLUTION NEURAL NETWORK - 
+ By using CNN we classified whether a image belongs to fire or not fire.
 After detecting it has fire we implemented a small alarm sysytem to get notified.
 
 ## Learning
