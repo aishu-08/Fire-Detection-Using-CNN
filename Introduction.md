@@ -20,3 +20,8 @@ could detect the source of fire and immediately raise an alert. By doing this we
 common man should be able to implement our model and he/she can prevent major loss that 
 is being caused by fire. Therefore we have done fire detection at first sight and it will raise an 
 alarm as soon as it detects fire.
+
+## Objectives
+Our main aim is to locate the position where the fire is present, which will help the authorities 
+take proper measures to avoid any loss. This project aims to build a deep neural network 
+model that will give the best accuracy in detecting fire
